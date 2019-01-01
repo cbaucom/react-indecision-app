@@ -3,9 +3,14 @@
   "version": "1.0.0",
   "dependencies": {
     "node-sass": "^4.11.0",
+    "normalize.css": "^8.0.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "react-scripts": "2.1.2"
+    "react-modal": "^3.8.1",
+    "react-scripts": "2.1.2",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1",
+    "validator": "^10.10.0"
   },
   "scripts": {
     "start": "react-scripts start",
