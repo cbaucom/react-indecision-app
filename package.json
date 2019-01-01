@@ -1,8 +1,8 @@
 {
-  "name": "react-indecision-app",
-  "version": "0.1.0",
-  "private": true,
+  "name": "indecision-app",
+  "version": "1.0.0",
   "dependencies": {
+    "node-sass": "^4.11.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.2"
