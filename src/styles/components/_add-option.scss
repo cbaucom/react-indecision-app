@@ -12,6 +12,10 @@
   flex-direction: column;
   padding: $m-size 0;
   background: $dark-blue;
+  label {
+    display: flex;
+    flex-grow: 1;
+  }
 }
 
 .add-option__input {
