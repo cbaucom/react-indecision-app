@@ -1,22 +1,21 @@
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
-  height: 10vmin;
+  height: 7vmin;
 }
 
 .App-footer {
-  background-color: $dark-blue;
+  background-color: $light-blue;
   min-height: 10vh;
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 1vmin);
-  color: white;
-  grid-column: 1 / -1;
+  justify-content: space-evenly;
+  font-size: $m-size;
+  color: $dark-blue;
 }
 
 .App-link {
-  color: $light-blue;
+  color: $dark-blue;
   &:hover {
     color: white;
   }
