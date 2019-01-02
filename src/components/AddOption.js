@@ -22,6 +22,7 @@ export default class AddOption extends React.Component {
           <p className="add-option-error">{this.state.error}</p>
         )}
         <form className="add-option" onSubmit={this.handleAddOption}>
+          <label htmlFor="option" />
           <input
             autoFocus
             className="add-option__input"
