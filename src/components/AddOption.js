@@ -27,7 +27,7 @@ export default class AddOption extends React.Component {
             className="add-option__input"
             type="text"
             name="option"
-            placeholder="Take out the trash"
+            placeholder="Learn React"
           />
           <button className="button">Add Option</button>
         </form>
