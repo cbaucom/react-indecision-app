@@ -17,6 +17,8 @@
 
 .big-button:disabled {
   opacity: 0.5;
+  background: $light-blue;
+  border-bottom: 0.6rem solid darken($light-blue, 10%);
 }
 
 @media (min-width: $desktop-breakpoint) {

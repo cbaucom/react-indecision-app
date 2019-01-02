@@ -24,6 +24,11 @@
   color: $off-white;
 }
 
+.widget-header .button--link:disabled {
+  opacity: 0.5;
+  text-decoration: none;
+}
+
 .widget-header__title {
   margin: 0;
 }
