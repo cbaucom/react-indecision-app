@@ -1,5 +1,4 @@
 import React from "react";
-// import Modal from "react-modal";
 import SweetAlert from "sweetalert2-react";
 import "../styles/components/_modal.scss";
 
