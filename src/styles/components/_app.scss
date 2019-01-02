@@ -12,6 +12,7 @@
   justify-content: center;
   font-size: calc(10px + 1vmin);
   color: white;
+  grid-column: 1 / -1;
 }
 
 .App-link {
