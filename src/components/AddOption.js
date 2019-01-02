@@ -22,14 +22,18 @@ export default class AddOption extends React.Component {
           <p className="add-option-error">{this.state.error}</p>
         )}
         <form className="add-option" onSubmit={this.handleAddOption}>
-          <label htmlFor="option" />
-          <input
-            autoFocus
-            className="add-option__input"
-            type="text"
-            name="option"
-            placeholder="Learn React"
-          />
+          <label htmlFor="option">
+            <input
+              id="option"
+              autoFocus
+              className="add-option__input"
+              type="text"
+              name="option"
+              placeholder="Learn React"
+              aria-label="Option Input"
+              aria-required="true"
+            />
+          </label>
           <button className="button">Add Option</button>
         </form>
       </div>
