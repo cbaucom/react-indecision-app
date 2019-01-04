@@ -1,3 +1,7 @@
+# Indecision
+
+## Put your life in the hands of a computer
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
