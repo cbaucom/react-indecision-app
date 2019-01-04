@@ -2,6 +2,10 @@
 
 ## Put your life in the hands of a computer
 
+This app uses localStorage and is 100% a PWA!
+
+![Indecision App](https://res.cloudinary.com/crbaucom/image/upload/v1546543786/crbaucom-images/indecision-pwa-lighthouse-100-desktop.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
